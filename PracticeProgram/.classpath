@@ -8,5 +8,7 @@
 	<classpathentry kind="src" path="OwnPractice"/>
 	<classpathentry kind="src" path="LogicMojo_Practice"/>
 	<classpathentry kind="src" path="LeetCode"/>
+	<classpathentry kind="src" path="PracticeProgram"/>
+	<classpathentry kind="src" path="BasicPrograms"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
