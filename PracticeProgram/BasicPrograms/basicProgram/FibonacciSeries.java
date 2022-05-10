@@ -2,7 +2,14 @@ package basicProgram;
 
 public class FibonacciSeries {
 
-	
+	public static int fib(int n) {
+		if(n <= 1) {
+			return n;
+		}
+		
+ 		return fib(n - 1) + fib(n - 2);
+		
+	}
 	public static void main(String[] args) {
 	
 		int a = 0;
@@ -16,6 +23,8 @@ public class FibonacciSeries {
 			b = c;
 			System.out.print(" " + c);
 		}
+		
+		System.out.println(fib(9));
 	}
 
 }
