@@ -1,4 +1,4 @@
-package practice.own;
+package basicProgram;
 
 public class AlphabetIsVowelOrConsonant {
 
