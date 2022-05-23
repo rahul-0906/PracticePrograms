@@ -4,8 +4,8 @@ public class ComputeQuotientAndRemainder {
 
 	public static void main(String[] args) {
 		
-		int divisor = 4;
-		int dividend = 25;
+		int divisor = 2;
+		int dividend = 1;
 		
 		int quotient = dividend / divisor;
 		int remainder = dividend % divisor;
